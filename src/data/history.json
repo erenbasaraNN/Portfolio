@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Yonca Teknoloji",
+    "startDate": "Jul, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": ["Worked on PHP Symfony", "Script that Fetch Articles From Web"],
+    "imageSrc": "history/yonca.png"
+  },
+  {
+    "role": "Design Director",
+    "organisation": "Heysengo Global",
+    "startDate": "April, 2022",
+    "endDate": "Jan, 2023",
+    "experiences": ["Project Management", "Customer Relationship"],
+    "imageSrc": "history/go.png"
+  },
+  {
+    "role": "Software Engineer (Student)",
+    "organisation": "Sakarya University",
+    "startDate": "Oct, 2021",
+    "endDate": "Jan, 2022",
+    "experiences": [
+      "Worked at Engineering Faculty",
+      "Created an Inventory Management System"
+    ],
+    "imageSrc": "history/sakarya.png"
+  }
+]
